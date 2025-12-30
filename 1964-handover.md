@@ -1,0 +1,9 @@
+# 1964 Handover Document
+
+**Source:** [National Research Council Press Release on the Transfer of Churchill Rocket Range, 1964](https://publications.gc.ca/collections/collection_2017/nrc-cnrc/FS88-1-1964-eng.pdf)
+
+**Annotation:**
+
+The 1964 handover of the Churchill Rocket Range from the Canadian Armament Research and Development Establishment (CARDE) to the National Research Council (NRC) marked a decisive shift in Canada’s aerospace policy. This press release, issued by the NRC in October 1964, formally announces the transfer and outlines the new civilian mandate for the facility. For historians, the document serves as a key primary source that captures the official rationale behind the transition: a move away from military‑oriented rocket testing toward peaceful scientific exploration. The text emphasizes the range’s future role in upper‑atmosphere research, satellite‑tracking experiments, and international co‑operation—a clear departure from its Cold War origins under CARDE.
+
+By framing the handover as a step toward “the advancement of scientific knowledge for the benefit of all Canadians,” the release reflects the broader post‑Sputnik trend of governments repurposing defense infrastructure for civilian space programs. It also signals the growing influence of the NRC as Canada’s lead agency for space research, a position that would later be reinforced by the creation of the Canadian Space Agency. The document’s language, tone, and omissions (such as the absence of any detailed discussion of earlier military projects) provide valuable insight into how the state sought to publicly redefine the site’s identity during a period of significant institutional change. As such, it is an indispensable piece of evidence for understanding the transformation of the Churchill Rocket Range from a secretive defense asset into an open, research‑driven facility.
